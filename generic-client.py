@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import socket
 
 HOST = '192.168.1.104' # Enter IP or Hostname of your server
